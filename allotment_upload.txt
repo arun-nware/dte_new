@@ -1,0 +1,39 @@
+
+
+1. BARCH: FR, SR
+2. BDESIGN: SR
+3. BDPHARMA: FR
+4. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\BDPHARMA\SR
+5. BE: allready done
+6. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\BHMCT\FR
+7. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\BHMCT\SR
+8. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\EKLAVYA_AMBEDKAR\FR
+9. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\EKLAVYA_AMBEDKAR\SR
+10. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\IIMBA\FR
+11. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\IIMBA\SR
+12. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\IIMCA\FR
+13. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\IIMCA\SR
+14. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\LTBE\FR [X]
+15. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\LTDIPLOMA\FR [X]
+16. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MARCH\FR
+17. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MARCH\SR
+18. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MBA\COR
+19. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MBA\FR
+20. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MBA\SR QR
+21. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MBA\SR
+22. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MCA\FR
+23. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MCA\SR
+24. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MPHARMA\FR
+25. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MPHARMA\SR QR
+26. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MPHARMA\SR
+27. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MTECH\FR
+28. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MTECH\SR QR
+29. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\MTECH\SR
+30. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\NON_PPT\FR
+31. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\NON_PPT\SR
+32. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\PHARMAD\FR
+33. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\PHARMAD\SR
+34. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\PHARMAD_PB\SR
+35. C:\Herd\dte-documents\stuff\2023 Data\Bank Report\Allotment Data\PPT\FR
+
+
