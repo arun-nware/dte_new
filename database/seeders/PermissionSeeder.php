@@ -65,11 +65,13 @@ class PermissionSeeder extends Seeder
             "manage_payment_download_encrypted",
             "manage_rejected_payment",
             "manage_payment_rejected_transferred",
+
             "reports",
-            "transaction_report",
+            "payment_report",
             "incentive_report",
             "monthly_report",
             "consolidated_incentive_distribution_employee_report",
+
             "administration",
             "users_permissions",
             "user_management",

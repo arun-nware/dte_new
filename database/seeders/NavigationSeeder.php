@@ -75,6 +75,14 @@ class NavigationSeeder extends Seeder
                         'nav_icon' => '',
                         'nav_order' => 1
                     ],
+                    [
+                        'nav_name' => 'XYZ Report',
+                        'nav_route' => 'report.payment_report',
+                        'nav_permission' => 'payment_report',
+                        'nav_type' => 'nav',
+                        'nav_icon' => '',
+                        'nav_order' => 2
+                    ],
 
                 ]
             ],

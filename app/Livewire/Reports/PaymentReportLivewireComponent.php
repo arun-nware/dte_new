@@ -200,7 +200,7 @@ class PaymentReportLivewireComponent extends Component
     public function builder()
     {
         DB::enableQueryLog();
-        /*
+
         $query = College::query()
             ->leftJoin('college_account_details', 'college_account_details.user_name', '=', 'colleges.user_name')
             ->select('colleges.course', 'colleges.branch_name as branch', 'colleges.user_name as college_code', 'colleges.inst_name as college_name', DB::raw('sum(intake) as total_intake'), DB::raw('sum(total_admitted) as total_admission'), DB::raw('sum(nri_seats) as total_nri'), 'account_number', 'account_holder_name', 'bank', 'college_account_details.branch as bank_branch', 'ifsc', 'nodal_officer_mobile_no', 'asstt_nodal_officer_mobile_no',)
@@ -337,9 +337,9 @@ class PaymentReportLivewireComponent extends Component
 
         $items = $this->result($results);
 
-        */
 
-        $query = PaymentReport::query()
+
+        /*$query = PaymentReport::query()
             ->when($this->search != '', function ($query) {
                 $query->where('user_name', 'LIKE', "%$this->search%");
             });
@@ -372,7 +372,7 @@ class PaymentReportLivewireComponent extends Component
             "nodal_officer_mobile_no",
             "asstt_nodal_officer_mobile_no",
 
-        ])->toArray();
+        ])->toArray();*/
         // dd($items);
         return $this->getPaginate($items, $this->perPage);
     }
